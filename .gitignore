@@ -1,0 +1,27 @@
+# Python derlenmiş dosyaları
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Sanal ortam
+venv/
+env/
+ENV/
+myenv/
+
+# IDE ve editör dosyaları
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# İşletim sistemi dosyaları
+.DS_Store
+Thumbs.db
+
+# Projeye özel gizli dosyalar (varsa)
+*.log
+*.db
+config_local.py
+.env
